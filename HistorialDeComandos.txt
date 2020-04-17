@@ -1,0 +1,385 @@
+    1  git clone https://github.com/quentru/1.git
+    2  git clone https://github.com/quentru/1.git
+    3  git clone https://github.com/quentru/1.git
+    4  git clone https://github.com/quentru/CursoIngresoJS.git
+    5  git delete 1
+    6  cd 1
+    7  rm -rf .git
+    8  cd
+    9  https://github.com/quentru/1.git
+   10  git clone https://github.com/quentru/1.git
+   11  git clone https://github.com/quentru/1.git
+   12  cd
+   13  git clone https://github.com/quentru/1.git
+   14  git status
+   15  cd 1
+   16  git status
+   17  git add
+   18  git add /c/Users/Usuario/1/5-InstruccionWhile/c/Users/Usuario/1/5-InstruccionWhile
+   19  git push origin master
+   20  git add '/c/Users/Usuario/1/5-InstruccionWhile/jsIteraciones (10).js'
+   21  git push origin master
+   22  git status
+   23  git add '/c/Users/Usuario/1/5-InstruccionWhile/jsIteraciones (10).js'
+   24  git status
+   25  git push origin master
+   26  cd
+   27  git add '/c/Users/Usuario/1/5-InstruccionWhile/jsIteraciones (10).js'
+   28  cd 1
+   29  git status
+   30  git add '/c/Users/Usuario/1/5-InstruccionWhile/jsIteraciones (10).js'
+   31  git commit-m
+   32  git commit-m '/c/Users/Usuario/1/5-InstruccionWhile/jsIteraciones (10).js'
+   33  git commit=m
+   34  git commit -m
+   35  git commit -m 'l'
+   36  git config --global quentru
+   37  git config quentru
+   38  git config
+   39  git init
+   40  git status
+   41  cd 1
+   42  git add /c/Users/Usuario/1/5-InstruccionWhile
+   43  git commit -m 't'
+   44  git config --global user.email"santiagobarraza124@gmail.com"
+   45  git commit -m 't'
+   46  quentru
+   47  git config --global user.name "quentru"
+   48  git config --global user.email"santiagobarraza124@gmail.com"
+   49  git config --global user.name "quentru"
+   50  git log
+   51  cd 1
+   52  cd 5-InstruccionWhile
+   53  git add '/c/Users/Usuario/1/5-InstruccionWhile/jsIteraciones (10).js'
+   54  git commit -m 'l'
+   55  git config
+   56  git init
+   57  git log in
+   58  git hub
+   59  git add '/c/Users/Usuario/1/5-InstruccionWhile/jsIteraciones (10).js'
+   60  push origin master
+   61  git push origin master
+   62  git add '/c/Users/Usuario/1/5-InstruccionWhile/jsIteraciones (10).js'
+   63  git push origin master
+   64  cd
+   65  git push origin master
+   66  git add '/c/Users/Usuario/1/5-InstruccionWhile/jsIteraciones (10).js'
+   67  cd 1
+   68  git add '/c/Users/Usuario/1/5-InstruccionWhile/jsIteraciones (10).js'
+   69  git push origin master
+   70  git status
+   71  git add '/c/Users/Usuario/1/5-InstruccionWhile
+   72  clear
+   73  a
+   74  das}DF
+   75  cd 1
+   76  git add '/c/Users/Usuario/1/5-InstruccionWhile/
+   77  git add /c/Users/Usuario/1/5-InstruccionWhile
+   78  cd 1
+   79  git add /c/Users/Usuario/1/5-InstruccionWhile
+   80  git status
+   81  git commit -m
+   82  git commit -m "iteracion 10"
+   83  run
+   84  git run
+   85  git prune
+   86  git config --global user.name "quentru"
+   87  git commit -m "iteracion 10"
+   88  git config --global user.email "santiagobarraza124@gmail.com"
+   89  git commit -m "iteracion 10"
+   90  git push origin master
+   91  cd 1
+   92  git add /c/Users/Usuario/1/2018_1Cuatri_Parcial_fuentes
+   93  git status
+   94  git commit -m "parcial 7"
+   95  git push origin master
+   96  git clone https://github.com/quentru/1.git
+   97  cd usuarios
+   98  git clone https://github.com/quentru/1.git
+   99  git clone https://github.com/quentru/1.git
+  100  git clone https://github.com/quentru/1.git
+  101  git clone https://github.com/quentru/1.git
+  102  cd 1
+  103  git init
+  104  git commit -m "Trabajo practico N 1"
+  105  git add
+  106  git add TrabajoPracticoN1
+  107  git add https://github.com/quentru/tp_laboratorio_1.git
+  108  git remote add origin https://github.com/quentru/tp_laboratorio_1.git
+  109  git push  origin master
+  110  git add /c/Users/Usuario/Desktop/1/Trabajos/TrabajoPracticoN1
+  111  git add /c/Users/Usuario/Desktop/1/Trabajos/TrabajoPracticoN1
+  112  dit push origin master
+  113  git push origin master
+  114  git status
+  115  git push
+  116  git push origin master
+  117  git push -u origin master
+  118  git remote add origin https://github.com/quentru/tp_laboratorio_1.git
+  119  git push -u origin master
+  120  git status
+  121  git push
+  122  git push origin master
+  123  git remote add origin https://github.com/quentru/tp_laboratorio_1.git
+  124  git push -u origin master
+  125  git remote add origin git@github.com:quentru/tp_laboratorio_1.git
+  126  https://github.com/quentru/tp_laboratorio_1.git
+  127  git remote add origin https://github.com/quentru/tp_laboratorio_1.git
+  128  git commit -m "Tabajo Practico"
+  129  git push origin master
+  130  git clone https://github.com/quentru/1.git
+  131  GIT CLONE
+  132  git clone https://github.com/quentru/1.git
+  133  cd 1
+  134  cd escritorio
+  135  cd 1
+  136  cd 1
+  137  cd cd 1
+  138  cd /c/escritorio/1
+  139  cd c/escritorio/1
+  140  cd c/Este equipo/Escritorio/1
+  141  cd /c/Este equipo/Escritorio/1
+  142  cd /C/Este equipo/Escritorio/1
+  143  cd /C/1
+  144  cd /C/1
+  145  cd /c/1
+  146  cd c/1
+  147  cd /c/Escritorio/1
+  148  cd c/Escritorio/1
+  149  cd c/Escritorio
+  150  cd c
+  151  cd /c/
+  152  cd /Escritorio/
+  153  cd /c/Escritorio/
+  154  cd /c/escritorio/
+  155  cd /c/Este equipo/
+  156  cd /Este equipo/
+  157  cd /1/
+  158  cd /c/1
+  159  cd /c/1/
+  160  cd
+  161  cd /c/1/
+  162  cd 1
+  163  cd /c/
+  164  cd 1
+  165  cd Escritorio
+  166  cd /c/Usuarios
+  167  cd /c/Usuarios/
+  168  cd /cusuarios/
+  169  cd /c/usuarios/
+  170  cd /c/usuario/
+  171  cd /usuario/
+  172  cd /usuarios/
+  173  cd /Usuarios/
+  174  cd
+  175  cd /Este equipo/
+  176  cd /Esteequipo/
+  177  cd /este equipo/
+  178  cd /Users/
+  179  cd /c/Users/
+  180  cd /c/Users/Usuario/
+  181  cd /c/Users/Usuario/Escritorio/
+  182  cd /c/Users/Usuario/Desktop/
+  183  cd /c/Users/Usuario/Desktop/1/
+  184  git init
+  185  git add -A
+  186  git status
+  187  git commit -a -m "primer cuestionario"
+  188  git remote add origin https://www.github.com/quentru/1.git
+  189  git push origin master
+  190  git config global "quentru"
+  191  git config --global user.name "quentru"
+  192  git config --global user.email "<santiagobarraza124@gmail.com>"
+  193  git clone https://github.com/quentru/1.git
+  194  git clone https://github.com/quentru/Funciones-en-c.git
+  195  git clone https://github.com/quentru/tp_laboratorio_1.git
+  196  cd Este Equipo
+  197  git add
+  198  git add .
+  199  git add .
+  200  git add .
+  201  cd
+  202  git add .
+  203  cd tp_laboratorio_1
+  204  git add .
+  205  git status
+  206  git commit -m "Trabajo practico numero 1, terminado"
+  207  git push 
+  208  git clone https://github.com/quentru/Funciones-en-c.git
+  209  cd Funciones-en-c.git
+  210  git clone https://github.com/quentru/Funciones-en-c.git
+  211  cd Funciones-en-c
+  212  git clone https://github.com/quentru/Funciones-en-c.git
+  213  git clone
+  214  git clone https://github.com/quentru/tp_laboratorio_1.git
+  215  git add.
+  216  git add .
+  217  git status
+  218  git commit -m "Estacionamiento Funcional"
+  219  git push
+  220  git clone https://github.com/quentru/Funciones-en-c.git
+  221  git status
+  222  git add .
+  223  git status
+  224  git commit -m "trabajoPracticoN2 terminado"
+  225  git push
+  226  git clone https://github.com/quentru/tp_laboratorio_1.git
+  227  git clone https://github.com/quentru/tp_laboratorio_1.git
+  228  git clone https://github.com/quentru/tp_laboratorio_1.git
+  229  git clone https://github.com/quentru/tp_laboratorio_1.git
+  230  git clone https://github.com/quentru/tp_laboratorio_1.git
+  231  git clone https://github.com/quentru/tp_laboratorio_1.git
+  232  git clone https://github.com/quentru/tp_laboratorio_1.git
+  233  git clone https://github.com/quentru/Cclase03funciones.git
+  234  cd Cclase03funciones.git
+  235  git add
+  236  git add .
+  237  git status
+  238  git commit-m ""
+  239  git commit -m ""
+  240  git commit -m "first commit"
+  241  git status
+  242  git status
+  243  git push
+  244  ls
+  245  cd 1
+  246  git init
+  247  cd
+  248  git init "Tp1"
+  249  cd Tp1
+  250  cd
+  251  git init "TP_SO_i1_Equipo"
+  252  cd "TP_SO_i1_Equipo"
+  253  git status
+  254  git add
+  255  git add.
+  256  git add .
+  257  git status
+  258  git commit -m "Alfa"
+  259  git push
+  260  git push git remote add origin https://github.com/quentru/TP_SO_i1_Equipo.git
+  261  git remote add origin https://github.com/quentru/TP_SO_i1_Equipo.git
+  262  git remote add origin https://github.com/quentru/TP_SO_i1_Equipo.git
+  263  git push -u origin master
+  264  git remote add origin https://github.com/quentru/TP_SO_i1_8.git
+  265  git init "TP_SO_i1_8"
+  266  git remote add origin https://github.com/quentru/TP_SO_i1_8.git
+  267  git remote add origin https://github.com/quentru/TP_SO_i1_8
+  268  git remote add origin https://github.com/quentru/TP_SO_i1_8.git
+  269  git clone
+  270  git clone https://github.com/quentru/TP_SO_i1_Equipo.git
+  271  git status
+  272  cd TP_SO_i1_Equipo
+  273  git status
+  274  git add .
+  275  git push origin master
+  276  git clone https://github.com/quentru/TP_SO_i1_8.git
+  277  git status
+  278  cd TP_SO_i1_8
+  279  git status
+  280  git add .
+  281  git push origin master
+  282  git status
+  283  git commit -m "respuesta alfa"
+  284  git push origin master
+  285  git status
+  286  git add .
+  287  git commit -m "archivo de prueba"
+  288  git push origin master
+  289  git status
+  290  git add
+  291  git init 
+  292  cd
+  293  git init tarea
+  294  cd tarea
+  295  git status
+  296  git add
+  297  git add .
+  298  git status
+  299  git status
+  300  cd
+  301  cd desktop
+  302  git status
+  303  cd tarea
+  304  git status
+  305  git add .
+  306  git status
+  307  git push
+  308  git push origin master
+  309  git push origin 
+  310  git commit-m "tarea terminada"
+  311  git push 
+  312  git remote add
+  313  git remote add quentru
+  314  history
+  315  history > historial1.txt
+  316  more historial1.txt
+  317  cd historial.txt
+  318  show historial.txt
+  319  history
+  320  clear
+  321  history
+  322  less history.txt
+  323  less historial.txt
+  324  cd user
+  325  cd c
+  326  cd c:
+  327  cd user
+  328  cd user:
+  329  cd user/
+  330  cd users
+  331  cd
+  332  git clone https://github.com/quentru/TP_SO_i2_8.git
+  333  cd TP_SO_i2_8.git
+  334  cd c:
+  335  cd users
+  336  cd TP_SO_i2_8.git
+  337  cd TP_SO_i2_8
+  338  cd TP_SO_i2_8/
+  339  cd usuario
+  340  cd TP_SO_i2_8
+  341  git status
+  342  git add .
+  343  git commit "Alfa modificacion 1"
+  344  git commit -m "Alfa modificacion 1"
+  345  git status
+  346  git add .
+  347  git status
+  348  git push origin master
+  349  git remote add upstream https://github.com/luisjmc/TP_SO_i2_8.git
+  350  git fetch upstream
+  351  git merge upstream/master
+  352  cd c:
+  353  cd users
+  354  cd usuario
+  355  cd TP_SO_i2_8
+  356  git remote add upstream https://github.com/LeoMonges97/TP_SO_i2_8.git
+  357  git remote add upstream https://github.com/LeoMonges97/TP_SO_i2_8.gitcd
+  358  cd
+  359  git remote add upstream https://github.com/LeoMonges97/TP_SO_i2_8.git
+  360  git remote add upstream https://github.com/LeoMonges97/TP_SO_i2_8.git
+  361  cd c:/users/usuario
+  362  cd TP_SO_i2_8
+  363  stop merge
+  364  cd
+  365  git clone https://github.com/LeoMonges97/TP_SO_i2_8.git
+  366  git clone https://github.com/LeoMonges97/TP_SO_i2_8.git
+  367  cd c:/users/usuario
+  368  cd TP_SO_i2_8
+  369  git remote add upstream https://github.com/LeoMonges97/TP_SO_i2_8.git
+  370  cd c:/users/usuario
+  371  cd TP_SO_i2_8
+  372  history
+  373  history > HistorialDeComandos.txt
+
+
+
+	Leonel
+	Monges
+	192.168.0.31
+	10:49
+
+	Barraza
+	Santiago
+	192.168.0.34
+	11:23

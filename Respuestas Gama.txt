@@ -1,0 +1,8 @@
+a-¿Como actualizo mi repositorio, al estado que esté el repo que hice FORK?
+A:para agregarlo como padre remoto: git remote add upstream https://github.com/luisjmc/TP_SO_i2_8.git
+para actualizar el repositorio al estado del repo del que hice fork : git fetch upstream
+b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+B: si con los mismos comandos, pero tuve que borrar el repositorio anterior
+d-¿Los datos que tenia en mi repositorio , editados por mi, se pierden si quiero actualizar
+el fork?
+D:no usando git merge upstream/master despues de los comandos nombrados en el punto a)
